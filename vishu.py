@@ -1,5 +1,4 @@
-print("hello world")
-print("welcome back ")
+
 
 
 # Simple Calculator in Python
