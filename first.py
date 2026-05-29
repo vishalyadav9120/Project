@@ -54,3 +54,70 @@
 # a= float(input("enter the first values :"))
 # b=float(input("enter the second the values :"))
 # print("sum",a+b) 
+
+#string
+# a ="my name is vishal yadav"
+# b="vishal"
+# c="this is a string and apn'a college "
+# print(len(a))
+# print(len(b)) 
+# print(c)
+# d=" i am very \n happy"
+# print(d)
+
+# str1="apna"
+# str2="college"
+# final=str1+str2
+# print(final)
+# print(len(final))
+# print(str1+"  " +str2)
+# #inexing
+# str="apna college"
+# ch=str[0]
+# print(ch)
+# print(str[1])
+# print(str[2])
+# print(str[3])
+# print(str[4])
+# print(str[5])
+
+# #slicing
+# str="apna college"
+# print(str[0:6])
+# #string function
+# #wap input the name & find the len
+# str=input("enter the name :")
+# print(str)
+# print(len(str))
+
+# #-- no of letter which reapeted
+# str="i am $ dollar .$ is biggest   $  $  $ $ "
+# print(str)
+# print(str.count("$"))
+ # --- conditional statements ---
+ 
+# age= 25
+# if(age>=18):
+#     print("can vote & apply for license")
+#     print("can drive")
+# else:
+#     print("cannot  apply for vote ")
+
+#----traffic light program
+
+# light="yellow"
+# if(light=="red"):
+#     print("stop") #indentation "proper spcaing"
+# elif(light=="green"):
+#     print("go")
+# elif(light=="yellow"):
+#     print("look")
+    
+#     print("end of code")
+  
+#student grade
+marks>=
+if(marks>=90):
+    print("Grade:A")
+elif(marks>=):
+    print("Grade :")
